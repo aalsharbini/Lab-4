@@ -1,5 +1,5 @@
 # Lab-4
-
+For this lab, you’re going to create several custom color palettes on the site Paletton, http://paletton.com. Choose a palette based on each prompt, and paste the Paletton URL in with your chosen palette. You’ll see that the uid value in the Paletton URL changes with each adjustment that you make. Write 2 sentences explaining why you chose the colors you did. Opt for the Paletton Preview mode Default with Text; you can start at this URL if you like: http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
 1. An adjacent color palette for introducing a new console gaming platform
 Palette URL: http://paletton.com/#uid=5000u0ko-vP1cY3efFb-kqwQXiS
